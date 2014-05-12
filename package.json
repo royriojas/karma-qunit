@@ -27,7 +27,7 @@
   },
   "peerDependencies": {
     "karma": ">=0.9",
-    "qunitjs": "~1.12.0"
+    "qunitjs": "git://github.com/royriojas/qunit#7ba621d"
   },
   "license": "MIT",
   "contributors": [
