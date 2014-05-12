@@ -16,7 +16,9 @@
     "qunit"
   ],
   "author": "Vojta Jina <vojta.jina@gmail.com>",
-  "dependencies": {},
+  "dependencies": {
+    "qunitjs": "git://github.com/royriojas/qunit#7ba621d"
+    },
   "devDependencies": {
     "grunt": "~0.4.1",
     "grunt-contrib-jshint": "~0.6",
@@ -26,8 +28,7 @@
     "grunt-auto-release": "~0.0.2"
   },
   "peerDependencies": {
-    "karma": ">=0.9",
-    "qunitjs": "git://github.com/royriojas/qunit#7ba621d"
+    "karma": ">=0.9"
   },
   "license": "MIT",
   "contributors": [
